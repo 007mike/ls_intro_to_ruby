@@ -15,8 +15,6 @@ words.each do |word|
   end
 end
 
-p anagram
-
 anagram.each_value do |v|
   p v
 end
